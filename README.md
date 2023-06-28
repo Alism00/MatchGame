@@ -1,2 +1,2 @@
 # MatchGame
-a match game
+a image matching game
